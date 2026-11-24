@@ -1,0 +1,16 @@
+com\footballcard\applet\CardConstants.class
+com\footballcard\ui\MainFrame.class
+com\footballcard\card\CardModels$CardSummary.class
+com\footballcard\firebase\FirebaseSyncService.class
+com\footballcard\card\CardModels$PayResult.class
+com\footballcard\card\SmartCardService$CardException.class
+com\footballcard\card\CardModels$ServiceItem.class
+com\footballcard\card\CardModels$BookingItem.class
+com\footballcard\ui\MainFrame$1.class
+com\footballcard\applet\FootballMemberApplet.class
+com\footballcard\card\SmartCardService.class
+com\footballcard\card\CardModels$MemberInfo.class
+com\footballcard\ui\MainFrame$2.class
+com\footballcard\card\CardModels$CardTxRecord.class
+com\footballcard\card\CardModels.class
+com\footballcard\card\CardModels$RewardItem.class
